@@ -45,9 +45,9 @@ const Loadmore = () => {
             key={item.id}
             className="text-3xl mb-4 h-80 w-80 overflow-hidden rounded-lg backdrop-blur-sm bg-white/30"
           >
-            <h1 className="text-slate-900 flex items-center justify-center font-sans font-bold bg-lime-300 h-1/5">
+            <h2 className="text-slate-900 flex items-center justify-center font-sans font-bold bg-lime-300 h-1/5">
               {item.name}
-            </h1>
+            </h2>
             <div className="dets w-full flex h-4/5">
               <Image
                 className="h-full object-cover w-2/3"
