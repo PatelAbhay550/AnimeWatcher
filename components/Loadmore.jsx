@@ -31,7 +31,7 @@ const Loadmore = () => {
 
   return (
     <>
-      <div className="flex min-h-screen flex-col md:flex-row md:gap-5 gap-2 ">
+      <div className="flex min-h-screen flex-col  gap-2 ">
         {animeData.map((item) => (
           <MotionDiv
             initial="hidden"
