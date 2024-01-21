@@ -8,6 +8,32 @@ import { FaRegCalendarTimes } from "react-icons/fa";
 import { MdMovie } from "react-icons/md";
 import { FaImdb } from "react-icons/fa";
 import { Metadata } from "next";
+export async function generateMetadata({ searchParams }, parent) {
+  // read route params
+  const decodedImage = decodeURIComponent(searchParams.image);
+  const decodedName = decodeURIComponent(searchParams.name);
+  return {
+    title: decodedName,
+    description:
+      "See " +
+      decodedName +
+      "'s" +
+      " all details, " +
+      decodedName +
+      "'s" +
+      " release date, " +
+      decodedName +
+      "'s" +
+      " score," +
+      " and " +
+      decodedName +
+      "'s" +
+      " videos.",
+    openGraph: {
+      images: [`https://shikimori.one${decodedImage}`],
+    },
+  };
+}
 
 const page = ({ searchParams }) => {
   // Decode parameters
