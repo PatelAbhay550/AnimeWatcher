@@ -11,7 +11,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-    <meta name="google-site-verification" content="CP-bBZfPoKzhXDdIAAeb5AvIDbZoMMJToPGRiBTbb00" />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:title" content="Anime Watcher" />
       <meta name="twitter:site" content="@animewatcher_in" />
