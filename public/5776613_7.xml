@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://xanimewatcher.vercel.app/</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://xanimewatcher.vercel.app/anime?name=Shingeki%20no%20Kyojin&amp;image=/system/animes/original/16498.jpg?1701440173&amp;score=8.54&amp;episodes=25&amp;released_on=2013-09-29&amp;aired=2013-04-07&amp;url=/animes/16498-shingeki-no-kyojin</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://xanimewatcher.vercel.app/anime?name=Death%20Note&amp;image=/assets/globals/missing_original.jpg?1701405586&amp;score=8.62&amp;episodes=37&amp;released_on=2007-06-27&amp;aired=2006-10-04&amp;url=/animes/1535-death-note</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://xanimewatcher.vercel.app/anime?name=Fullmetal%20Alchemist:%20Brotherhood&amp;image=/system/animes/original/5114.jpg?1701409327&amp;score=9.09&amp;episodes=64&amp;released_on=2010-07-04&amp;aired=2009-04-05&amp;url=/animes/z5114-fullmetal-alchemist-brotherhood</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://xanimewatcher.vercel.app/anime?name=One%20Punch%20Man&amp;image=/system/animes/original/30276.jpg?1701431501&amp;score=8.5&amp;episodes=12&amp;released_on=2015-12-21&amp;aired=2015-10-05&amp;url=/animes/z30276-one-punch-man</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://xanimewatcher.vercel.app/anime?name=Sword%20Art%20Online&amp;image=/system/animes/original/11757.jpg?1701442673&amp;score=7.2&amp;episodes=25&amp;released_on=2012-12-23&amp;aired=2012-07-08&amp;url=/animes/z11757-sword-art-online</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://xanimewatcher.vercel.app/anime?name=Boku%20no%20Hero%20Academia&amp;image=/system/animes/original/31964.jpg?1701401046&amp;score=7.87&amp;episodes=13&amp;released_on=2016-06-26&amp;aired=2016-04-03&amp;url=/animes/31964-boku-no-hero-academia</loc>
+	<lastmod>2024-01-21T20:29:02+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+</urlset>
