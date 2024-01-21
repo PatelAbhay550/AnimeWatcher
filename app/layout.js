@@ -4,7 +4,11 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Anime Watcher",
+  title: {
+    absolute: "",
+    default: "Anime Watcher - Get Details Of All Anime",
+    template: "%s | Anime Watcher",
+  },
   description: "Dwelve into amazing world of Anime with Anime Watcher.",
 };
 

@@ -32,7 +32,7 @@ const Loadmore = () => {
 
   return (
     <>
-      <div className="flex min-h-screen flex-col gap-2 ">
+      <div className="grid gridd gap-2 bg-gradient-to-r from-sky-500 to-indigo-500 ">
         {animeData.map((item) => (
           <MotionDiv
             initial="hidden"
@@ -64,17 +64,19 @@ const Loadmore = () => {
                   href={{
                     pathname: "/anime",
                     query: {
-                      name: item.name,
-                      image: item.image.original,
-                      kind: item.kind,
-                      score: item.score,
-                      released_on: item.released_on,
-                      episodes: item.episodes,
-                      url: item.url,
-                      previmg: item.image.preview,
-                      x96: item.image.x96,
-                      x48: item.image.x48,
-                      aired: item.aired_on,
+                      name: encodeURIComponent(item.name),
+                      image: encodeURIComponent(item.image.original),
+                      kind: encodeURIComponent(item.kind),
+                      score: encodeURIComponent(item.score),
+                      episodes: encodeURIComponent(item.episodes),
+                      released_on: encodeURIComponent(item.released_on),
+                      aired: encodeURIComponent(item.aired_on),
+                      url: encodeURIComponent(item.url),
+                      previmg: encodeURIComponent(
+                        JSON.stringify(item.image.preview)
+                      ),
+                      x96: encodeURIComponent(item.image.x96),
+                      x48: encodeURIComponent(item.image.x48),
                     },
                   }}
                 >

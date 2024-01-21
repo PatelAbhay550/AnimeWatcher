@@ -14,9 +14,10 @@ export default async function Home() {
     visible: { opacity: 1, scale: 1 },
   };
   return (
-    <main className="flex min-h-screen flex-col gap-2 items-center bg-gradient-to-r from-sky-500 to-indigo-500 justify-between p-24">
-      <Navbar />
-      <div>
+    <>
+      <main className="grid gridd gap-2 bg-gradient-to-r from-sky-500 to-indigo-500 md:mt-16 mt-20">
+        <Navbar />
+
         {data.map((item) => (
           <MotionDiv
             key={item.id}
@@ -38,7 +39,7 @@ export default async function Home() {
                 width={100}
                 height={200}
               />
-              {console.log(item)}
+
               <div className="data text-white text-lg px-0 pl-3 gap-1 flex flex-col ">
                 <h2 className="text-slate-900  overflow-hidden truncate w-[250px] whitespace-nowrap text-3xl font-sans font-bold">
                   {item.name}
@@ -49,17 +50,19 @@ export default async function Home() {
                   href={{
                     pathname: "/anime",
                     query: {
-                      name: item.name,
-                      image: item.image.original,
-                      kind: item.kind,
-                      score: item.score,
-                      episodes: item.episodes,
-                      released_on: item.released_on,
-                      aired: item.aired_on,
-                      url: item.url,
-                      previmg: JSON.stringify(item.image.preview),
-                      x96: item.image.x96,
-                      x48: item.image.x48,
+                      name: encodeURIComponent(item.name),
+                      image: encodeURIComponent(item.image.original),
+                      kind: encodeURIComponent(item.kind),
+                      score: encodeURIComponent(item.score),
+                      episodes: encodeURIComponent(item.episodes),
+                      released_on: encodeURIComponent(item.released_on),
+                      aired: encodeURIComponent(item.aired_on),
+                      url: encodeURIComponent(item.url),
+                      previmg: encodeURIComponent(
+                        JSON.stringify(item.image.preview)
+                      ),
+                      x96: encodeURIComponent(item.image.x96),
+                      x48: encodeURIComponent(item.image.x48),
                     },
                   }}
                 >
@@ -71,8 +74,8 @@ export default async function Home() {
             </div>
           </MotionDiv>
         ))}
-        <Loadmore />
-      </div>
-    </main>
+      </main>
+      <Loadmore />
+    </>
   );
 }
