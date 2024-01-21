@@ -1,21 +1,41 @@
+import { format } from "date-fns";
 import { fetchAnime } from "./action";
 
-const getRandomDate = () => {
-  // Get a random date within the last year
-  const currentDate = new Date();
-  const lastYear = currentDate.getFullYear() - 1;
-  const randomYear = Math.floor(Math.random() * 2) + lastYear;
-  const randomMonth = Math.floor(Math.random() * 12) + 1;
-  const randomDay = Math.floor(Math.random() * 28) + 1; // Assuming all months have 28 days
+// IIFE to use async/await
+const generateSitemap = async () => {
+  const animeData = await fetchAnime(1);
+  const encodedData = {
+    name: encodeURIComponent(item.name),
+    image: encodeURIComponent(item.image.original),
+    score: encodeURIComponent(item.score),
+    episodes: encodeURIComponent(item.episodes),
+    released_on: encodeURIComponent(item.released_on),
+    aired: encodeURIComponent(item.aired_on),
+    url: encodeURIComponent(item.url),
+  };
 
-  return new Date(`${randomYear}-${randomMonth}-${randomDay}`);
+  return (
+    <>
+      {`<?xml version="1.0" encoding="UTF-8"?>`}
+      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        {animeData.map((item) => (
+          <url key={item.name}>
+            <loc>{`https://xanimewatcher.vercel.app/anime/${encodedData.name}${encodedData.image}${encodedData.score}${encodedData.episodes}${encodedData.released_on}${encodedData.aired}${encodedData.url}`}</loc>
+            <lastmod>
+              {format(new Date(item.date_modified), "yyyy-MM-dd")}
+            </lastmod>
+          </url>
+        ))}
+      </urlset>
+    </>
+  );
 };
 
-export default async function sitemap({ id }) {
-  const animeData = await fetchAnime(1);
+// IIFE to run the async function
+(async () => {
+  // Render the component
+  const generatedSitemap = await generateSitemap();
 
-  return animeData.map((item) => ({
-    url: `https://xanimewatcher.vercel.app/anime/${encodeURIComponent(item.name)}`,
-    lastModified: getRandomDate().toISOString(), // Convert the date to ISO string
-  }));
-}
+  // Log or use the generated sitemap JSX as needed
+  console.log(generatedSitemap);
+})();
