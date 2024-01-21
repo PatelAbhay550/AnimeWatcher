@@ -39,15 +39,11 @@ const page = ({ searchParams }) => {
   // Decode parameters
   const decodedName = decodeURIComponent(searchParams.name);
   const decodedImage = decodeURIComponent(searchParams.image);
-  const decodedKind = decodeURIComponent(searchParams.kind);
   const decodedScore = decodeURIComponent(searchParams.score);
   const decodedEpisodes = decodeURIComponent(searchParams.episodes);
   const decodedReleasedOn = decodeURIComponent(searchParams.released_on);
   const decodedAired = decodeURIComponent(searchParams.aired);
   const decodedUrl = decodeURIComponent(searchParams.url);
-  const decodedPrevimg = decodeURIComponent(searchParams.previmg);
-  const decodedX96 = decodeURIComponent(searchParams.x96);
-  const decodedX48 = decodeURIComponent(searchParams.x48);
 
   return (
     <div className="flex min-h-screen flex-col gap-2 items-center bg-gradient-to-r from-sky-500 to-indigo-500 justify-between">

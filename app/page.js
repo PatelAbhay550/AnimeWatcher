@@ -52,17 +52,12 @@ export default async function Home() {
                     query: {
                       name: encodeURIComponent(item.name),
                       image: encodeURIComponent(item.image.original),
-                      kind: encodeURIComponent(item.kind),
+
                       score: encodeURIComponent(item.score),
                       episodes: encodeURIComponent(item.episodes),
                       released_on: encodeURIComponent(item.released_on),
                       aired: encodeURIComponent(item.aired_on),
                       url: encodeURIComponent(item.url),
-                      previmg: encodeURIComponent(
-                        JSON.stringify(item.image.preview)
-                      ),
-                      x96: encodeURIComponent(item.image.x96),
-                      x48: encodeURIComponent(item.image.x48),
                     },
                   }}
                 >

@@ -1,0 +1,23 @@
+// pages/api/sitemap.xml.js
+import { create } from 'xmlbuilder2';
+import { fetchAnime } from './action'; // Update the path accordingly
+
+export default async function handler(req, res) {
+  const animeData = await fetchAnime(1); // Fetch anime data using your function
+
+  const xml = create({ version: '1.0', encoding: 'UTF-8' })
+    .ele('urlset', { xmlns: 'http://www.sitemaps.org/schemas/sitemap/0.9' });
+
+  animeData.forEach((item) => {
+    xml.ele('url')
+      .ele('loc').txt(`https://xanimewatcher.vercel.app/anime/${encodeURIComponent(item.name)}`).up() // Update with your actual website URL
+      .ele('lastmod').txt(new Date().toISOString()).up() // You can replace this with the last modified date of the anime item
+      .ele('changefreq').txt('monthly').up()
+      .ele('priority').txt('0.8').up();
+  });
+
+  res.setHeader('Content-Type', 'text/xml');
+  res.setHeader('Cache-Control', 'public, max-age=86400'); // Cache for 24 hours
+
+  res.end(xml.toString({ prettyPrint: true }));
+}
