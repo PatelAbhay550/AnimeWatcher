@@ -19,12 +19,12 @@
           "audio": "https://example.com/audio/channa_mereya.mp3",
           "image": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg",
           "length": "4:49",
-          "singer": " Pritam, Arijit Singh"
+          "singer": "Pritam, Arijit Singh"
         },
-         {
+        {
           "name": "Zaalima",
           "movie": "Raees",
-          "audio": "https://example.com/audio/Zaalima.mp3",
+          "audio": "https://example.com/audio/zaalima.mp3",
           "image": "https://c.saavncdn.com/334/Raees-Hindi-2016-20200430093124-500x500.jpg",
           "length": "4:59",
           "singer": "Arijit Singh, Harshdeep Kaur"
@@ -36,7 +36,7 @@
           "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg",
           "length": "4:21",
           "singer": "Sachin-Jigar, Arijit Singh"
-        },
+        }
       ]
     },
     {
@@ -50,7 +50,7 @@
           "audio": "https://example.com/audio/teri_meri.mp3",
           "image": "https://c.saavncdn.com/722/Bodyguard-Hindi-2011-20221211211236-500x500.jpg",
           "length": "5:38",
-          "singer": " Himesh Reshammiya, Shreya Ghoshal, Rahat Fateh Ali Khan"
+          "singer": "Himesh Reshammiya, Shreya Ghoshal, Rahat Fateh Ali Khan"
         },
         {
           "name": "Sun Raha Hai",
