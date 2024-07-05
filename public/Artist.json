@@ -1,0 +1,73 @@
+{
+  "singers": [
+    {
+      "name": "Arijit Singh",
+      "image": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_500x500.jpg",
+      "biography": "Arijit Singh is an Indian playback singer known for his soulful voice and versatility.",
+      "songs": [
+        {
+          "name": "Tum Hi Ho",
+          "movie": "Aashiqui 2",
+          "audio": "https://example.com/audio/tum_hi_ho.mp3",
+          "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+          "length": "4:22",
+          "singer": "Mithoon, Arijit Singh"
+        },
+        {
+          "name": "Channa Mereya",
+          "movie": "Ae Dil Hai Mushkil",
+          "audio": "https://example.com/audio/channa_mereya.mp3",
+          "image": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg",
+          "length": "4:49",
+          "singer": " Pritam, Arijit Singh"
+        }
+      ]
+    },
+    {
+      "name": "Shreya Ghoshal",
+      "image": "https://c.saavncdn.com/artists/Shreya_Ghoshal_006_20240318080459_500x500.jpg",
+      "biography": "Shreya Ghoshal is an Indian playback singer known for her melodious voice and range.",
+      "songs": [
+        {
+          "name": "Teri Meri",
+          "movie": "Bodyguard",
+          "audio": "https://example.com/audio/teri_meri.mp3",
+          "image": "https://c.saavncdn.com/722/Bodyguard-Hindi-2011-20221211211236-500x500.jpg",
+          "length": "5:38",
+          "singer": " Himesh Reshammiya, Shreya Ghoshal, Rahat Fateh Ali Khan"
+        },
+        {
+          "name": "Sun Raha Hai",
+          "movie": "Aashiqui 2",
+          "audio": "https://example.com/audio/sun_raha_hai.mp3",
+          "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+          "length": "5:14",
+          "singer": "Shreya Ghoshal"
+        }
+      ]
+    },
+    {
+      "name": "Sonu Nigam",
+      "image": "https://c.saavncdn.com/artists/Sonu_Nigam_500x500.jpg",
+      "biography": "Sonu Nigam is an Indian playback singer known for his wide vocal range and versatility.",
+      "songs": [
+        {
+          "name": "Kal Ho Naa Ho",
+          "movie": "Kal Ho Naa Ho",
+          "audio": "https://example.com/audio/kal_ho_naa_ho.mp3",
+          "image": "https://c.saavncdn.com/587/Kal-Ho-Naa-Ho-Hindi-2003-20190516130956-500x500.jpg",
+          "length": "5:21",
+          "singer": "Shankar-Ehsaan-Loy, Sonu Nigam"
+        },
+        {
+          "name": "Abhi Mujh Mein Kahin",
+          "movie": "Agneepath",
+          "audio": "https://example.com/audio/abhi_mujh_mein_kahin.mp3",
+          "image": "https://c.saavncdn.com/317/Agneepath-Hindi-2011-20190603132941-500x500.jpg",
+          "length": "6:05",
+          "singer": "Ajay-Atul, Sonu Nigam"
+        }
+      ]
+    }
+  ]
+}
