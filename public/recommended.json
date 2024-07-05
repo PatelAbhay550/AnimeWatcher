@@ -1,42 +1,42 @@
 [
   {
-  "name":"Mehrama",
-  "singer":"Pritam, Darshan Raval, Antara Mitra",
-  "duration":249,
-  "image":"https://c.saavncdn.com/862/Love-Aaj-Kal-Hindi-2020-20200214140423-500x500.jpg",
-  "movie":"Love Aaj Kal",
-  "audio":"https://pagalnew.com/download128/1892"
- },
+    "name": "Mehrama",
+    "singer": "Pritam, Darshan Raval, Antara Mitra",
+    "duration": 249,
+    "image": "https://c.saavncdn.com/862/Love-Aaj-Kal-Hindi-2020-20200214140423-500x500.jpg",
+    "movie": "Love Aaj Kal",
+    "audio": "https://pagalnew.com/download128/1892"
+  },
   {
-  "name":"Naina Da Kya Kasoor",
-  "singer":"Amit Trivedi",
-  "duration":210,
-  "image":"https://c.saavncdn.com/237/Andhadhun-Hindi-2018-20181003-500x500.jpg",
-  "movie":"Andhadhun",
-  "audio":"https://pagalnew.com/download128/2955"
- },
+    "name": "Naina Da Kya Kasoor",
+    "singer": "Amit Trivedi",
+    "duration": 210,
+    "image": "https://c.saavncdn.com/237/Andhadhun-Hindi-2018-20181003-500x500.jpg",
+    "movie": "Andhadhun",
+    "audio": "https://pagalnew.com/download128/2955"
+  },
   {
-  "name":"Tere Sang Yaara",
-  "singer":"Atif Aslam",
-  "duration":290,
-  "image":"https://c.saavncdn.com/221/Rustom-Hindi-2018-20191029174008-500x500.jpg",
-  "movie":"Rustom",
-  "audio":"https://cdnsongs.com/music/data/UK_Punjabi/201403/Delhi_Cheapsters/128/Jo_Tere_Sang_3.mp3"
- },
+    "name": "Tere Sang Yaara",
+    "singer": "Atif Aslam",
+    "duration": 290,
+    "image": "https://c.saavncdn.com/221/Rustom-Hindi-2018-20191029174008-500x500.jpg",
+    "movie": "Rustom",
+    "audio": "https://cdnsongs.com/music/data/UK_Punjabi/201403/Delhi_Cheapsters/128/Jo_Tere_Sang_3.mp3"
+  },
   {
-  "name":"Pal Pal Dil Ke Paas - Title Track",
-  "singer":"Arijit Singh, Parampara Tandon",
-  "duration":254,
-  "image":"https://c.saavncdn.com/328/Pal-Pal-Dil-Ke-Paas-Hindi-2019-20200420150444-500x500.jpg",
-  "movie":"Pal Pal Dil Ke Paas",
-  "audio":"https://hindi2.djpunjab.app/load/-JuiQ5buj-rONJ2GWrmCow==/Dil%20Ke%20Paas.mp3"
- },
+    "name": "Pal Pal Dil Ke Paas - Title Track",
+    "singer": "Arijit Singh, Parampara Tandon",
+    "duration": 254,
+    "image": "https://c.saavncdn.com/328/Pal-Pal-Dil-Ke-Paas-Hindi-2019-20200420150444-500x500.jpg",
+    "movie": "Pal Pal Dil Ke Paas",
+    "audio": "https://hindi2.djpunjab.app/load/-JuiQ5buj-rONJ2GWrmCow==/Dil%20Ke%20Paas.mp3"
+  },
   {
-  "name":"Kesariya",
-  "singer":"Bunny, HUNNY, Sagar",
-  "duration":268,
-  "image":"https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg",
-  "movie":"Brahmastra",
-  "audio":"https://pagalnew.com/download128/30350"
- },
+    "name": "Kesariya",
+    "singer": "Bunny, HUNNY, Sagar",
+    "duration": 268,
+    "image": "https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg",
+    "movie": "Brahmastra",
+    "audio": "https://pagalnew.com/download128/30350"
+  }
 ]
