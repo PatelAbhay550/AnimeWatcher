@@ -1,5 +1,13 @@
 [
   {
+"name": "Sun Raha Hai",
+"movie": "Aashiqui 2",
+"audio": "https://pagalfree.com/musics/128-Sunn%20Raha%20Hai%20(Male)%20-%20Aashiqui%202%20128%20Kbps.mp3",
+"image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+"duration": "314",
+"singer": "Ankit Tiwari"
+},
+  {
     "name": "Mehrama",
     "singer": "Pritam, Darshan Raval, Antara Mitra",
     "duration": 249,
@@ -14,6 +22,14 @@
     "image": "https://c.saavncdn.com/237/Andhadhun-Hindi-2018-20181003-500x500.jpg",
     "movie": "Andhadhun",
     "audio": "https://pagalnew.com/download128/2955"
+  },
+  {
+    "name": "Jeda Nasha",
+    "singer": "Tanishk Bagchi, Amar Jalal, IP Singh, Yohani, Harjot Kaur, Faridkot",
+    "duration": 222,
+    "image": "https://pagalfree.com/images/128Jehda%20Nasha%20-%20An%20Action%20Hero%20128%20Kbps.jpg",
+    "movie": "An Action Hero",
+    "audio": "https://pagalfree.com/musics/128-Jehda%20Nasha%20-%20An%20Action%20Hero%20128%20Kbps.mp3"
   },
   {
     "name": "Tere Sang Yaara",
