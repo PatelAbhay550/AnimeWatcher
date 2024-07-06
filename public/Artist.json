@@ -8,7 +8,7 @@
         {
           "name": "Tum Hi Ho",
           "movie": "Aashiqui 2",
-          "audio": "https://example.com/audio/tum_hi_ho.mp3",
+          "audio": "https://pagalfree.com/musics/128-Tum%20Hi%20Ho%20-%20Aashiqui%202%20128%20Kbps.mp3",
           "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
           "length": "4:22",
           "singer": "Mithoon, Arijit Singh"
@@ -16,7 +16,7 @@
         {
           "name": "Channa Mereya",
           "movie": "Ae Dil Hai Mushkil",
-          "audio": "https://example.com/audio/channa_mereya.mp3",
+          "audio": "https://pagalfree.com/musics/128-Channa%20Mereya%20-%20Ae%20Dil%20Hai%20Mushkil%20128%20Kbps.mp3",
           "image": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg",
           "length": "4:49",
           "singer": "Pritam, Arijit Singh"
@@ -24,7 +24,7 @@
         {
           "name": "Zaalima",
           "movie": "Raees",
-          "audio": "https://example.com/audio/zaalima.mp3",
+          "audio": "https://pagalfree.com/musics/128-Zaalima%20-%20Raees%20128%20Kbps.mp3",
           "image": "https://c.saavncdn.com/334/Raees-Hindi-2016-20200430093124-500x500.jpg",
           "length": "4:59",
           "singer": "Arijit Singh, Harshdeep Kaur"
@@ -32,7 +32,7 @@
         {
           "name": "Apna Bana Le",
           "movie": "Bhediya",
-          "audio": "https://example.com/audio/apna_bana_le.mp3",
+          "audio": "https://pagalfree.com/musics/128-Apna%20Bana%20Le%20-%20Bhediya%20128%20Kbps.mp3",
           "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg",
           "length": "4:21",
           "singer": "Sachin-Jigar, Arijit Singh"
@@ -47,7 +47,7 @@
         {
           "name": "Teri Meri",
           "movie": "Bodyguard",
-          "audio": "https://example.com/audio/teri_meri.mp3",
+          "audio": "https://pagalnew.com/download128/7313",
           "image": "https://c.saavncdn.com/722/Bodyguard-Hindi-2011-20221211211236-500x500.jpg",
           "length": "5:38",
           "singer": "Himesh Reshammiya, Shreya Ghoshal, Rahat Fateh Ali Khan"
@@ -55,7 +55,7 @@
         {
           "name": "Sun Raha Hai",
           "movie": "Aashiqui 2",
-          "audio": "https://example.com/audio/sun_raha_hai.mp3",
+          "audio": "https://pagalnew.com/download128/6032",
           "image": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
           "length": "5:14",
           "singer": "Shreya Ghoshal"
@@ -70,7 +70,7 @@
         {
           "name": "Kal Ho Naa Ho",
           "movie": "Kal Ho Naa Ho",
-          "audio": "https://example.com/audio/kal_ho_naa_ho.mp3",
+          "audio": "https://pagalfree.com/musics/128-Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20128%20Kbps.mp3",
           "image": "https://c.saavncdn.com/587/Kal-Ho-Naa-Ho-Hindi-2003-20190516130956-500x500.jpg",
           "length": "5:21",
           "singer": "Shankar-Ehsaan-Loy, Sonu Nigam"
@@ -78,11 +78,19 @@
         {
           "name": "Abhi Mujh Mein Kahin",
           "movie": "Agneepath",
-          "audio": "https://example.com/audio/abhi_mujh_mein_kahin.mp3",
+          "audio": "https://pagalfree.com/musics/128-Abhi%20Mujh%20Mein%20Kahin%20-%20Agneepath%20128%20Kbps.mp3",
           "image": "https://c.saavncdn.com/317/Agneepath-Hindi-2011-20190603132941-500x500.jpg",
           "length": "6:05",
           "singer": "Ajay-Atul, Sonu Nigam"
-        }
+        },
+        {
+          "name": "Dil Tod Ke",
+          "movie": "Dil Tod Ke",
+          "audio": "https://pagalfree.com/musics/128-Dil%20Tod%20Ke%20-%20Sonu%20Nigam%20128%20Kbps.mp3",
+          "image": https://pagalfree.com/images/128Dil%20Tod%20Ke%20-%20Sonu%20Nigam%20128%20Kbps.jpg",
+          "length": "3:17",
+          "singer": "Sonu Nigam,Shabab Sabri"
+        },
       ]
     }
   ]
