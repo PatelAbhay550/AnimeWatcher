@@ -71,6 +71,29 @@
     ]
   },
   {
+    "name": "Pritam",
+    "image": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_500x500.jpg",
+    "biography": "Pritam Chakraborty is a music director and composer from West Bengal known for his Sufi notes and Gajal Rhythms.",
+    "songs": [
+      {
+        "name": "Bheegi Si Bhaagi Si",
+        "movie": "Raajneeti",
+        "audio": "https://pagalnew.com/download128/7858",
+        "image": "https://c.saavncdn.com/403/Raajneeti-Hindi-2010-20190617133038-500x500.jpg",
+        "length": "4:37",
+        "singer": "Pritam, Mohit Chauhan, Antara Mitra"
+      },
+      {
+        "name": "Kalank Title Track",
+        "movie": "Kalank",
+        "audio": "https://pagalnew.com/download128/2309",
+        "image": "https://c.saavncdn.com/784/Kalank-Hindi-2019-20200508163312-500x500.jpg",
+        "length": "5:11",
+        "singer": "Pritam, Arijit Singh"
+      }
+    ]
+  },
+  {
     "name": "Sonu Nigam",
     "image": "https://c.saavncdn.com/artists/Sonu_Nigam_500x500.jpg",
     "biography": "Sonu Nigam is an Indian playback singer known for his wide vocal range and versatility.",
