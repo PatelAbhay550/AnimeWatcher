@@ -47,6 +47,37 @@
       }
     ]
   },
+    {
+    "name": "Kumar Sanu",
+    "image": "https://c.saavncdn.com/artists/Kumar_Sanu_500x500.jpg",
+    "biography": "Kumar Sanu is known for his melodious songs, winner of many national and internal awards, a legend of hindi cinema.",
+    "songs": [
+      {
+        "name": "Mera Dil Bhi Kitna Pagal Hai",
+        "movie": "Saajan",
+        "audio": "https://pagalnew.com/download128/18379",
+        "image": "https://c.saavncdn.com/blob/461/Saajan-Hindi-1991-20220616044407-500x500.jpg",
+        "length": "5:24",
+        "singer": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik"
+      },
+      {
+        "name": "Dheere Dheere Se Meri Jindgi Mein Aana",
+        "movie": "Aashiqui",
+        "audio": "https://pagalnew.com/download128/19313",
+        "image": "https://c.saavncdn.com/088/Aashiqui-Hindi-1989-20221118014024-500x500.jpg",
+        "length": "5:27",
+        "singer": " Anuradha Paudwal, Kumar Sanu"
+      },
+      {
+        "name": "Chand Se Parda Kijiye",
+        "movie": "Aao Pyar Karen",
+        "audio": "https://pagalnew.com/download128/16063",
+        "image": "https://c.saavncdn.com/blob/416/Aao-Pyar-Karen-Hindi-1994-20220620181817-500x500.jpg",
+        "length": "6:21",
+        "singer": "Kumar Sanu"
+      }
+    ]
+  },
   {
     "name": "Shreya Ghoshal",
     "image": "https://c.saavncdn.com/artists/Shreya_Ghoshal_006_20240318080459_500x500.jpg",
