@@ -1,0 +1,124 @@
+{
+  "ChiefMinisters": [
+    {
+      "State": "Andhra Pradesh",
+      "ChiefMinister": "Sri Nara Chandrababu Naidu"
+    },
+    {
+      "State": "Arunachal Pradesh",
+      "ChiefMinister": "Shri Pema Khandu"
+    },
+    {
+      "State": "Assam",
+      "ChiefMinister": "Shri Himanta Biswa Sarma"
+    },
+    {
+      "State": "Bihar",
+      "ChiefMinister": "Shri Nitish Kumar"
+    },
+    {
+      "State": "Chhattisgarh",
+      "ChiefMinister": "Shri Vishnu Deo Sai"
+    },
+    {
+      "State": "Delhi (NCT)",
+      "ChiefMinister": "Shri Arvind Kejriwal"
+    },
+    {
+      "State": "Goa",
+      "ChiefMinister": "Shri Pramod Sawant"
+    },
+    {
+      "State": "Gujarat",
+      "ChiefMinister": "Shri Bhupendra Patel"
+    },
+    {
+      "State": "Haryana",
+      "ChiefMinister": "Shri Nayab Singh Saini"
+    },
+    {
+      "State": "Himachal Pradesh",
+      "ChiefMinister": "Shri Sukhvinder Singh Sukhu"
+    },
+    {
+      "State": "Jharkhand",
+      "ChiefMinister": "Shri Hemant Soren"
+    },
+    {
+      "State": "Karnataka",
+      "ChiefMinister": "Shri Siddaramaiah"
+    },
+    {
+      "State": "Kerala",
+      "ChiefMinister": "Shri Pinarayi Vijayan"
+    },
+    {
+      "State": "Madhya Pradesh",
+      "ChiefMinister": "Shri Mohan Yadav"
+    },
+    {
+      "State": "Maharashtra",
+      "ChiefMinister": "Shri Eknath Shinde"
+    },
+    {
+      "State": "Manipur",
+      "ChiefMinister": "Shri N. Biren Singh"
+    },
+    {
+      "State": "Meghalaya",
+      "ChiefMinister": "Shri Conrad Kongkal Sangma"
+    },
+    {
+      "State": "Mizoram",
+      "ChiefMinister": "Shri PU Lalduhoma"
+    },
+    {
+      "State": "Nagaland",
+      "ChiefMinister": "Shri Neiphiu Rio"
+    },
+    {
+      "State": "Odisha",
+      "ChiefMinister": "Shri Mohan Charan Majhi"
+    },
+    {
+      "State": "Puducherry (UT)",
+      "ChiefMinister": "Shri N. Rangaswamy"
+    },
+    {
+      "State": "Punjab",
+      "ChiefMinister": "Shri Bhagwant Singh Mann"
+    },
+    {
+      "State": "Rajasthan",
+      "ChiefMinister": "Shri Bhajan Lal Sharma"
+    },
+    {
+      "State": "Sikkim",
+      "ChiefMinister": "Shri PS Golay"
+    },
+    {
+      "State": "Tamil Nadu",
+      "ChiefMinister": "Shri M. K. Stalin"
+    },
+    {
+      "State": "Telangana",
+      "ChiefMinister": "Shri A Revanth Reddy"
+    },
+    {
+      "State": "Tripura",
+      "ChiefMinister": "Dr. Manik Saha"
+    },
+    {
+      "State": "Uttar Pradesh",
+      "ChiefMinister": "Shri Yogi Aditya Nath"
+    },
+    {
+      "State": "Uttarakhand",
+      "ChiefMinister": "Shri Pushkar Singh Dhami"
+    },
+    {
+      "State": "West Bengal",
+      "ChiefMinister": "Km. Mamata Banerjee"
+    }
+  ]
+}
