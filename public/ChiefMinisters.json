@@ -2,123 +2,153 @@
   "ChiefMinisters": [
     {
       "State": "Andhra Pradesh",
-      "ChiefMinister": "Sri Nara Chandrababu Naidu"
+      "ChiefMinister": "Sri Nara Chandrababu Naidu",
+      "office":"12 June 2024"
     },
     {
       "State": "Arunachal Pradesh",
-      "ChiefMinister": "Shri Pema Khandu"
+      "ChiefMinister": "Shri Pema Khandu",
+       "office":"17 July 2016"
     },
     {
       "State": "Assam",
-      "ChiefMinister": "Shri Himanta Biswa Sarma"
+      "ChiefMinister": "Shri Himanta Biswa Sarma",
+       "office":"10 May 2021"
     },
     {
       "State": "Bihar",
-      "ChiefMinister": "Shri Nitish Kumar"
+      "ChiefMinister": "Shri Nitish Kumar",
+       "office":"	22 February 2015"
     },
     {
       "State": "Chhattisgarh",
-      "ChiefMinister": "Shri Vishnu Deo Sai"
+      "ChiefMinister": "Shri Vishnu Deo Sai",
+       "office":"13 December 2023"
     },
     {
       "State": "Delhi (NCT)",
-      "ChiefMinister": "Shri Arvind Kejriwal"
+      "ChiefMinister": "Shri Arvind Kejriwal",
+       "office":"14 February 2015"
     },
     {
       "State": "Goa",
-      "ChiefMinister": "Shri Pramod Sawant"
+      "ChiefMinister": "Shri Pramod Sawant",
+       "office":"19 March 2019"
     },
     {
       "State": "Gujarat",
-      "ChiefMinister": "Shri Bhupendra Patel"
+      "ChiefMinister": "Shri Bhupendra Patel",
+       "office":"13 September 2021"
     },
     {
       "State": "Haryana",
-      "ChiefMinister": "Shri Nayab Singh Saini"
+      "ChiefMinister": "Shri Nayab Singh Saini",
+      "office":"12 March 2024"
     },
     {
       "State": "Himachal Pradesh",
-      "ChiefMinister": "Shri Sukhvinder Singh Sukhu"
+      "ChiefMinister": "Shri Sukhvinder Singh Sukhu",
+      "office":"11 December 2022"
     },
     {
       "State": "Jharkhand",
-      "ChiefMinister": "Shri Hemant Soren"
+      "ChiefMinister": "Shri Hemant Soren",
+      "office":"4 July 2024"
     },
     {
       "State": "Karnataka",
-      "ChiefMinister": "Shri Siddaramaiah"
+      "ChiefMinister": "Shri Siddaramaiah",
+      "office":"20 May 2023"
     },
     {
       "State": "Kerala",
-      "ChiefMinister": "Shri Pinarayi Vijayan"
+      "ChiefMinister": "Shri Pinarayi Vijayan",
+      "office":"25 May 2016"
     },
     {
       "State": "Madhya Pradesh",
-      "ChiefMinister": "Shri Mohan Yadav"
+      "ChiefMinister": "Shri Mohan Yadav",
+      "office":"13 December 2023"
     },
     {
       "State": "Maharashtra",
-      "ChiefMinister": "Shri Eknath Shinde"
+      "ChiefMinister": "Shri Eknath Shinde",
+      "office":"30 June 2022"
     },
     {
       "State": "Manipur",
-      "ChiefMinister": "Shri N. Biren Singh"
+      "ChiefMinister": "Shri N. Biren Singh",
+      "office":"15 March 2017"
     },
     {
       "State": "Meghalaya",
-      "ChiefMinister": "Shri Conrad Kongkal Sangma"
+      "ChiefMinister": "Shri Conrad Kongkal Sangma",
+      "office":"6 March 2018"
     },
     {
       "State": "Mizoram",
-      "ChiefMinister": "Shri PU Lalduhoma"
+      "ChiefMinister": "Shri PU Lalduhoma",
+      "office":"8 December 2023"
     },
     {
       "State": "Nagaland",
-      "ChiefMinister": "Shri Neiphiu Rio"
+      "ChiefMinister": "Shri Neiphiu Rio",
+      "office":"8 March 2018"
     },
     {
       "State": "Odisha",
-      "ChiefMinister": "Shri Mohan Charan Majhi"
+      "ChiefMinister": "Shri Mohan Charan Majhi",
+      "office":"12 June 2024"
     },
     {
       "State": "Puducherry (UT)",
-      "ChiefMinister": "Shri N. Rangaswamy"
+      "ChiefMinister": "Shri N. Rangaswamy",
+      "office":"7 May 2021"
     },
     {
       "State": "Punjab",
-      "ChiefMinister": "Shri Bhagwant Singh Mann"
+      "ChiefMinister": "Shri Bhagwant Singh Mann",
+      "office":"16 March 2022"
     },
     {
       "State": "Rajasthan",
-      "ChiefMinister": "Shri Bhajan Lal Sharma"
+      "ChiefMinister": "Shri Bhajan Lal Sharma",
+      "office":"15 December 2023"
     },
     {
       "State": "Sikkim",
-      "ChiefMinister": "Shri PS Golay"
+      "ChiefMinister": "Prem Singh Tamang",
+      "office":"27 May 2019"
     },
     {
       "State": "Tamil Nadu",
-      "ChiefMinister": "Shri M. K. Stalin"
+      "ChiefMinister": "Shri M. K. Stalin",
+      "office":"7 May 2021"
     },
     {
       "State": "Telangana",
-      "ChiefMinister": "Shri A Revanth Reddy"
+      "ChiefMinister": "Shri A Revanth Reddy",
+      "office":"7 December 2023"
     },
     {
       "State": "Tripura",
-      "ChiefMinister": "Dr. Manik Saha"
+      "ChiefMinister": "Dr. Manik Saha",
+      "office":"15 May 2022"
     },
     {
       "State": "Uttar Pradesh",
-      "ChiefMinister": "Shri Yogi Aditya Nath"
+      "ChiefMinister": "Shri Yogi Aditya Nath",
+      "office":"19 March 2017"
     },
     {
       "State": "Uttarakhand",
-      "ChiefMinister": "Shri Pushkar Singh Dhami"
+      "ChiefMinister": "Shri Pushkar Singh Dhami",
+      "office":"4 July 2021"
     },
     {
       "State": "West Bengal",
-      "ChiefMinister": "Km. Mamata Banerjee"
+      "ChiefMinister": "Km. Mamata Banerjee",
+      "office":"20 May 2011"
     }
   ]
 }
