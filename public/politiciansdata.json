@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Narendra Modi",
+    "image": "https://example.com/narendra-modi.jpg",
+    "summary": "Prime Minister of India since 2014",
+    "biodata": "Narendra Modi was born on 17 September 1950. He is the 14th and current Prime Minister of India, in office since May 2014. He was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi."
+  },
+  {
+    "name": "Amit Shah",
+    "image": "https://example.com/amit-shah.jpg",
+    "summary": "Minister of Home Affairs since 2019",
+    "biodata": "Amit Shah was born on 22 October 1964. He is an Indian politician serving as the Minister of Home Affairs since 2019. He was the President of the Bharatiya Janata Party (BJP) from 2014 to 2020."
+  },
+  {
+    "name": "Rahul Gandhi",
+    "image": "https://example.com/rahul-gandhi.jpg",
+    "summary": "Member of Parliament for Wayanad",
+    "biodata": "Rahul Gandhi was born on 19 June 1970. He is an Indian politician and a member of the Indian National Congress. He served as the President of the Indian National Congress from 2017 to 2019."
+  },
+  {
+    "name": "Sonia Gandhi",
+    "image": "https://example.com/sonia-gandhi.jpg",
+    "summary": "Former President of the Indian National Congress",
+    "biodata": "S"
+  }
+]
