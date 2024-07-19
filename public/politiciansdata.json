@@ -1,26 +1,26 @@
 [
   {
     "name": "Narendra Modi",
-    "image": "https://example.com/narendra-modi.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRcIVuUgkrDHXYcHei9RubcvgxOpy4_lqbwnNEKeyer2HIG9jVkznl6WbG-D8h7DPSjvyXkA9ki9tqCyWc",
     "summary": "Prime Minister of India since 2014",
     "biodata": "Narendra Modi was born on 17 September 1950. He is the 14th and current Prime Minister of India, in office since May 2014. He was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi."
   },
   {
     "name": "Amit Shah",
-    "image": "https://example.com/amit-shah.jpg",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/amit-shah-031349244-16x9_0.jpg?VersionId=fIO.e.rwvSI7zc2ABUl8c1qc.XY28YNQ&size=690:388",
     "summary": "Minister of Home Affairs since 2019",
     "biodata": "Amit Shah was born on 22 October 1964. He is an Indian politician serving as the Minister of Home Affairs since 2019. He was the President of the Bharatiya Janata Party (BJP) from 2014 to 2020."
   },
   {
     "name": "Rahul Gandhi",
-    "image": "https://example.com/rahul-gandhi.jpg",
-    "summary": "Member of Parliament for Wayanad",
-    "biodata": "Rahul Gandhi was born on 19 June 1970. He is an Indian politician and a member of the Indian National Congress. He served as the President of the Indian National Congress from 2017 to 2019."
+    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1805562584310923264/pu/img/i8EfL4PSUE8W2cHO.jpg:large",
+    "summary": "Member of Parliament for RaeBareli",
+    "biodata": "Rahul Rajiv Gandhi, a prominent figure in Indian politics, serves as an esteemed Indian politician. He holds a distinguished position as a dedicated member of the Indian National Congress and has been actively involved in national governance, contributing significantly to the development and progress of the nation. Elected as the representative for the esteemed constituency of Rae Bareli, located in Uttar Pradesh, Rahul Rajiv Gandhi has been serving diligently in the Lok Sabha since the year 2024, working tirelessly to address the needs and concerns of the people he represents and advocating for their rights and welfare. His commitment to public service and his unwavering dedication to his constituents have earned him respect and admiration from both his colleagues and the general public alike."
   },
   {
     "name": "Sonia Gandhi",
-    "image": "https://example.com/sonia-gandhi.jpg",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/14/full/1681446801-0821.jpg",
     "summary": "Former President of the Indian National Congress",
-    "biodata": "S"
+    "biodata": "Sonia Gandhi, a prominent figure in Indian politics, has held the position of the longest-serving president within the Indian National Congress. This political party, known for its social democratic leaning, has been a significant player in shaping the governance of India for a considerable part of its history following independence. Through her tenure as president, Sonia Gandhi has played a crucial role in steering the party's direction and contributing to its influence in the political landscape of the nation."
   }
 ]
