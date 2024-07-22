@@ -1,26 +1,93 @@
 [
   {
     "name": "Narendra Modi",
+    "designation": "Prime Minister of India",
     "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRcIVuUgkrDHXYcHei9RubcvgxOpy4_lqbwnNEKeyer2HIG9jVkznl6WbG-D8h7DPSjvyXkA9ki9tqCyWc",
     "summary": "Prime Minister of India since 2014",
-    "biodata": "Narendra Modi was born on 17 September 1950. He is the 14th and current Prime Minister of India, in office since May 2014. He was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi."
+    "biodata": "Narendra Modi was born on 17 September 1950. He is the 14th and current Prime Minister of India, in office since May 2014. He was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi. Modi's political journey began as a member of the Rashtriya Swayamsevak Sangh (RSS), where he was involved in various activities and eventually transitioned into mainstream politics as a member of the Bharatiya Janata Party (BJP). His tenure as Gujarat's Chief Minister was marked by economic growth, but also controversies related to the 2002 Gujarat riots. As Prime Minister, Modi has introduced significant economic reforms, such as the Goods and Services Tax (GST) and the demonetization policy, aimed at curbing black money. His tenure has also seen a focus on improving infrastructure, digital governance, and enhancing India's international relationships."
   },
   {
     "name": "Amit Shah",
+    "designation": "Minister of Home Affairs",
     "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/amit-shah-031349244-16x9_0.jpg?VersionId=fIO.e.rwvSI7zc2ABUl8c1qc.XY28YNQ&size=690:388",
     "summary": "Minister of Home Affairs since 2019",
-    "biodata": "Amit Shah was born on 22 October 1964. He is an Indian politician serving as the Minister of Home Affairs since 2019. He was the President of the Bharatiya Janata Party (BJP) from 2014 to 2020."
+    "biodata": "Amit Shah was born on 22 October 1964. He is an Indian politician serving as the Minister of Home Affairs since 2019. He was the President of the Bharatiya Janata Party (BJP) from 2014 to 2020. Shah began his political career as a member of the RSS and was mentored by Narendra Modi. He has been a close ally of Modi since the early days of their political careers in Gujarat. Known for his organizational skills and strategic acumen, Shah played a pivotal role in expanding the BJP's footprint across India. As Home Minister, he has overseen significant policies, including the abrogation of Article 370 in Jammu and Kashmir, and the introduction of the Citizenship Amendment Act (CAA), both of which have been controversial but represent major shifts in India's internal policy. His leadership in the BJP has been characterized by a focus on grassroots mobilization and a strong emphasis on electoral victories."
   },
   {
     "name": "Rahul Gandhi",
+    "designation": "Member of Parliament for Raebareli",
     "image": "https://pbs.twimg.com/ext_tw_video_thumb/1805562584310923264/pu/img/i8EfL4PSUE8W2cHO.jpg:large",
-    "summary": "Member of Parliament for RaeBareli",
-    "biodata": "Rahul Rajiv Gandhi, a prominent figure in Indian politics, serves as an esteemed Indian politician. He holds a distinguished position as a dedicated member of the Indian National Congress and has been actively involved in national governance, contributing significantly to the development and progress of the nation. Elected as the representative for the esteemed constituency of Rae Bareli, located in Uttar Pradesh, Rahul Rajiv Gandhi has been serving diligently in the Lok Sabha since the year 2024, working tirelessly to address the needs and concerns of the people he represents and advocating for their rights and welfare. His commitment to public service and his unwavering dedication to his constituents have earned him respect and admiration from both his colleagues and the general public alike."
+    "summary": "Member of Parliament for  Raebareli",
+    "biodata": "Rahul Rajiv Gandhi, a prominent figure in Indian politics, serves as an esteemed Indian politician. He holds a distinguished position as a dedicated member of the Indian National Congress and has been actively involved in national governance, contributing significantly to the development and progress of the nation. Elected as the representative for the esteemed constituency of Wayanad, located in Kerala, Rahul Rajiv Gandhi has been serving diligently in the Lok Sabha since the year 2019, working tirelessly to address the needs and concerns of the people he represents and advocating for their rights and welfare. His commitment to public service and his unwavering dedication to his constituents have earned him respect and admiration from both his colleagues and the general public alike. As a key member of the Gandhi-Nehru family, Rahul's political journey has been under constant scrutiny, yet he continues to strive for a more inclusive and progressive India. His vision includes social justice, economic equity, and an emphasis on education and healthcare for all."
   },
   {
     "name": "Sonia Gandhi",
+    "designation": "Former President of the Indian National Congress, Member of Rajya Sabha from Rajasthan",
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/14/full/1681446801-0821.jpg",
     "summary": "Former President of the Indian National Congress",
-    "biodata": "Sonia Gandhi, a prominent figure in Indian politics, has held the position of the longest-serving president within the Indian National Congress. This political party, known for its social democratic leaning, has been a significant player in shaping the governance of India for a considerable part of its history following independence. Through her tenure as president, Sonia Gandhi has played a crucial role in steering the party's direction and contributing to its influence in the political landscape of the nation."
+    "biodata": "Sonia Gandhi, a prominent figure in Indian politics, has held the position of the longest-serving president within the Indian National Congress. This political party, known for its social democratic leaning, has been a significant player in shaping the governance of India for a considerable part of its history following independence. Through her tenure as president, Sonia Gandhi has played a crucial role in steering the party's direction and contributing to its influence in the political landscape of the nation. Born in Italy, she married Rajiv Gandhi, the former Prime Minister of India, and became an Indian citizen. After Rajiv's assassination, she initially stayed away from active politics but later took on the leadership role in the Congress party, reviving its fortunes and leading it to several electoral victories. Her leadership style is marked by her ability to unify various factions within the party and her focus on social welfare programs."
+  },
+  {
+    "name": "Manmohan Singh",
+    "designation": "Former Prime Minister of India",
+    "image": "https://cdn.britannica.com/26/139026-050-71204015/Manmohan-Singh.jpg",
+    "summary": "Prime Minister of India from 2004 to 2014",
+    "biodata": "Manmohan Singh, an eminent Indian economist and politician, served as the Prime Minister of India from 2004 to 2014. Born on 26 September 1932 in Gah, Punjab (now in Pakistan), Singh is renowned for his integrity, modesty, and economic acumen. Before becoming Prime Minister, he was the Finance Minister from 1991 to 1996, where he was instrumental in implementing significant economic reforms that liberalized the Indian economy. As Prime Minister, his tenure was marked by strong economic growth, social welfare programs, and attempts to improve India’s international relations. Singh's leadership was characterized by a calm and composed demeanor, earning him respect both domestically and internationally. His contributions to India's economic development are widely recognized, and he remains a key figure in the country’s modern political history."
+  },
+  {
+    "name": "Arvind Kejriwal",
+    "designation": "Chief Minister of Delhi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Arvind_Kejriwal_2022_Official_Portrail_%28AI_enhanced%29.jpg",
+    "summary": "Chief Minister of Delhi since 2015",
+    "biodata": "Arvind Kejriwal, born on 16 August 1968, is an Indian politician and a former civil servant who currently serves as the Chief Minister of Delhi. A prominent figure in Indian politics, Kejriwal is known for his activism against corruption and his role in the India Against Corruption movement, which led to the formation of the Aam Aadmi Party (AAP) in 2012. Kejriwal's political journey has been marked by his emphasis on transparency, accountability, and good governance. As Chief Minister, he has focused on improving public services such as education, healthcare, and water supply, implementing several innovative policies and schemes. His tenure has seen significant investments in public infrastructure and a push towards clean and green energy. Kejriwal's leadership style is often described as pragmatic and people-centric, earning him widespread support among the citizens of Delhi."
+  },
+  {
+    "name": "Mamata Banerjee",
+    "designation": "Chief Minister of West Bengal",
+    "image": "https://th-i.thgim.com/public/incoming/ecb5ug/article68429188.ece/alternates/LANDSCAPE_1200/PTI07_21_2024_000139A.jpg",
+    "summary": "Chief Minister of West Bengal since 2011",
+    "biodata": "Mamata Banerjee, born on 5 January 1955, is an Indian politician who serves as the Chief Minister of West Bengal, a position she has held since 2011. She is the founder and leader of the All India Trinamool Congress (TMC), which she established in 1998 after splitting from the Indian National Congress. Banerjee's political career began as a youth leader in the Congress party, and she has held various ministerial positions in the central government. As Chief Minister, her tenure has been marked by efforts to improve rural infrastructure, health, and education in West Bengal. She is known for her populist policies and her strong stance against the central government's policies that she perceives as harmful to the state's interests. Banerjee's leadership has been characterized by her grassroots connection and her ability to mobilize large sections of the population in support of her policies and programs."
+  },
+  {
+    "name": "Nitin Gadkari",
+    "designation": "Minister of Road Transport and Highways",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202107/nitin-gadkari-topic-pages-1200x768-profile_image_one_to_one.jpg?VersionId=uoqBo21aD_aiP5a5u2UOTtRdu0B2_OEu",
+    "summary": "Minister of Road Transport and Highways since 2014",
+    "biodata": "Nitin Gadkari, born on 27 May 1957, is an Indian politician serving as the Minister of Road Transport and Highways since 2014. Gadkari is a member of the Bharatiya Janata Party (BJP) and has held various key positions within the party and the government. He is known for his work in infrastructure development, particularly in the construction of highways and roads across India. Gadkari's tenure as Minister has seen the implementation of several ambitious projects aimed at improving connectivity and reducing travel time, thereby boosting economic growth. He is also responsible for policies related to renewable energy and electric vehicles, pushing for sustainable and environmentally friendly transportation solutions. Gadkari's leadership is marked by his pragmatic approach to problem-solving and his emphasis on innovation and technology in infrastructure development."
+  },
+  {
+    "name": "Smriti Irani",
+    "designation": "Former Member of Parliament from Amethi",
+    "image": "https://img.etimg.com/thumb/width-1600,height-900,imgsize-377407,resizemode-75,msid-68847512/news/elections/lok-sabha/india/congress-accuses-smriti-irani-of-falsifying-educational-records.jpg",
+    "summary": "Former Minister of Women and Child Development since 2019",
+    "biodata": "Smriti Irani, born on 23 March 1976, is an Indian politician and former television actress who serves as the Minister of Women and Child Development since 2019. She is a member of the Bharatiya Janata Party (BJP) and has held various ministerial portfolios, including Human Resource Development and Textiles. Irani's political journey began in 2003, and she gained prominence with her spirited campaign against Rahul Gandhi in Amethi, which she eventually won in 2019. As Minister of Women and Child Development, Irani has focused on policies aimed at improving the welfare of women and children, addressing issues such as nutrition, safety, and education. Her tenure has been marked by efforts to empower women economically and socially through various schemes and initiatives. Irani's leadership style is characterized by her dynamic personality and her ability to connect with people at the grassroots level."
+  },
+  {
+    "name": "Yogi Adityanath",
+    "designation": "Chief Minister of Uttar Pradesh",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/misc/2023-03/30/full/20230306047L.jpg?im=FitAndFill=(826,465)",
+    "summary": "Chief Minister of Uttar Pradesh since 2017",
+    "biodata": "Yogi Adityanath, born Ajay Singh Bisht on 5 June 1972, is an Indian monk and politician who serves as the Chief Minister of Uttar Pradesh, a position he has held since 2017. A member of the Bharatiya Janata Party (BJP), Adityanath is also the Mahant (head priest) of the Gorakhnath Math, a Hindu temple in Gorakhpur. His political career began with his election as a Member of Parliament from Gorakhpur in 1998, a seat he held for five consecutive terms. As Chief Minister, Adityanath has focused on law and order, infrastructure development, and welfare schemes for the poor. His tenure has seen a strong emphasis on improving public safety, economic development, and the promotion of Hindu cultural values. Adityanath's leadership style is often described as assertive and decisive, with a focus on implementing policies that reflect his vision of development and governance."
+  },
+  {
+    "name": "Piyush Goyal",
+    "designation": "Minister of Commerce and Industry",
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRIUMOktDmjJLbJwpvLO0JzvJXcBEF0aZu5D-pDuk3tvXJXqOF_EtEUWszw_t7rWZCByVgu9ZljRtbCLyM",
+    "summary": "Minister of Commerce and Industry since 2019",
+    "biodata": "Piyush Goyal, born on 13 June 1964, is an Indian politician serving as the Minister of Commerce and Industry since 2019. He is a member of the Bharatiya Janata Party (BJP) and has held several key ministerial positions, including Railways and Coal. Goyal's political career is marked by his focus on economic reforms and improving India's trade relations. As Minister of Commerce and Industry, he has been instrumental in negotiating trade agreements and promoting Indian exports. Goyal is also known for his efforts to improve the efficiency and transparency of India's railway system during his tenure as Railway Minister. His leadership is characterized by his strategic vision, analytical approach, and commitment to economic development. Goyal has also been involved in various social initiatives aimed at improving the lives of the underprivileged."
+  },
+  {
+    "name": "Akhilesh Yadav",
+    "designation": "Former Chief Minister of Uttar Pradesh, Member of Parliament from Kannauj",
+    "image": "https://samajwadiparty.in/_assets/img/president.jpg",
+    "summary": "Chief Minister of Uttar Pradesh from 2012 to 2017",
+    "biodata": "Akhilesh Yadav, born on 1 July 1973, is an Indian politician and the President of the Samajwadi Party. He served as the 20th Chief Minister of Uttar Pradesh from 2012 to 2017, becoming the youngest person to hold the office at the age of 38. Yadav's tenure as Chief Minister was marked by efforts to modernize the state’s infrastructure, improve education and health services, and promote economic development. His government launched several ambitious projects, including the Agra-Lucknow Expressway and the Lucknow Metro. Born into a political family, Akhilesh is the son of Mulayam Singh Yadav, the founder of the Samajwadi Party. He holds degrees in civil engineering and environmental engineering from universities in India and Australia. As a leader, Akhilesh is known for his youth-centric approach and has been a vocal advocate for digital governance and technological advancements in rural areas."
+  },
+  {
+    "name": "Mayawati",
+    "designation": "Former Chief Minister of Uttar Pradesh",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/16/full/1697450117-443.jpg",
+    "summary": "Chief Minister of Uttar Pradesh four times between 1995 and 2012",
+    "biodata": "Mayawati, born on 15 January 1956, is an Indian politician and the President of the Bahujan Samaj Party (BSP). She has served as the Chief Minister of Uttar Pradesh four times, making her one of the most prominent Dalit leaders in India. Mayawati's political career began under the mentorship of Kanshi Ram, the founder of BSP, who played a crucial role in shaping her political ideology centered around the upliftment of Dalits and other marginalized communities. Her tenure as Chief Minister was characterized by efforts to improve the welfare of Dalits through various social and economic programs, including housing, education, and employment schemes. Despite facing significant challenges and criticisms, Mayawati's leadership style has been marked by her determination to address caste-based inequalities and promote social justice. Her policies and initiatives have had a lasting impact on the socio-political landscape of Uttar Pradesh."
   }
 ]
