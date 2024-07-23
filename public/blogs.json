@@ -1,0 +1,84 @@
+{
+  "categories": {
+    "politics": [
+      {
+        "title": "The Rise of Political Movements in 2024",
+        "author": "John Doe",
+        "date": "2024-07-23",
+        "summary": "An overview of the major political movements emerging in 2024.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/politics1.jpg",
+        "tags": ["politics", "2024", "movements"]
+      },
+      {
+        "title": "Impact of Social Media on Politics",
+        "author": "Jane Smith",
+        "date": "2024-07-22",
+        "summary": "How social media is shaping the political landscape.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/politics2.jpg",
+        "tags": ["politics", "social media", "impact"]
+      }
+    ],
+    "budget2024": [
+      {
+        "title": "Highlights of the 2024 Budget",
+        "author": "Alex Johnson",
+        "date": "2024-07-20",
+        "summary": "Key highlights and takeaways from the 2024 budget.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/budget1.jpg",
+        "tags": ["budget2024", "highlights"]
+      },
+      {
+        "title": "Impact of the 2024 Budget on Small Businesses",
+        "author": "Emily Clark",
+        "date": "2024-07-19",
+        "summary": "Analyzing how the 2024 budget will affect small businesses.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/budget2.jpg",
+        "tags": ["budget2024", "small business", "impact"]
+      }
+    ],
+    "technology": [
+      {
+        "title": "Top 10 Tech Innovations in 2024",
+        "author": "Michael Brown",
+        "date": "2024-07-18",
+        "summary": "A look at the top technological innovations of 2024.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/tech1.jpg",
+        "tags": ["technology", "innovations", "2024"]
+      },
+      {
+        "title": "The Future of Artificial Intelligence",
+        "author": "Sarah Davis",
+        "date": "2024-07-17",
+        "summary": "Exploring the advancements and future prospects of AI.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/tech2.jpg",
+        "tags": ["technology", "AI", "future"]
+      }
+    ],
+    "health": [
+      {
+        "title": "Health Trends to Watch in 2024",
+        "author": "Olivia Wilson",
+        "date": "2024-07-16",
+        "summary": "Upcoming health trends and innovations for 2024.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/health1.jpg",
+        "tags": ["health", "trends", "2024"]
+      },
+      {
+        "title": "Mental Health Awareness in the Modern Age",
+        "author": "David Martinez",
+        "date": "2024-07-15",
+        "summary": "The importance of mental health awareness and support.",
+        "content": "Detailed content of the blog post goes here...",
+        "image": "https://example.com/images/health2.jpg",
+        "tags": ["health", "mental health", "awareness"]
+      }
+    ]
+  }
+}
