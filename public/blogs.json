@@ -31,13 +31,58 @@
         "tags": ["budget2024", "highlights"]
       },
       {
-        "title": "Impact of the 2024 Budget on Small Businesses",
-        "author": "Emily Clark",
-        "date": "2024-07-19",
-        "summary": "Analyzing how the 2024 budget will affect small businesses.",
-        "content": "Detailed content of the blog post goes here...",
-        "image": "https://example.com/images/budget2.jpg",
-        "tags": ["budget2024", "small business", "impact"]
+        "title": "Nirmala Sitharaman Announces Big Changes in Taxes and Jobs in Budget 2024",
+        "author": "Abhay Patel",
+        "date": "2024-07-23",
+        "summary": "Analyzing what are the big changes in taxes and jobs in 2024 budget.",
+        "content": "<article class="bg-white shadow p-6 mb-6">
+      <p>Union Finance Minister Nirmala Sitharaman on July 23 announced her seventh consecutive budget. The presentation on July 23 was the first Budget by the BJP-led NDA government since it was re-elected in June.</p>
+      <p>Ms. Sitharaman said that the Budget will focus on employment, skilling, MSME and middle class. An allocation of ₹1.48 lakh crore for education, employment and skill development was announced.</p>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">Budget Priorities</h2>
+      <ul class="list-disc list-inside">
+        <li>Productivity and resilience in agriculture</li>
+        <li>Employment and skilling</li>
+        <li>Inclusive Human resource development and social justice</li>
+        <li>Manufacturing and services</li>
+        <li>Support for promotion of MSMEs</li>
+        <li>Urban development</li>
+        <li>Energy security</li>
+        <li>Infrastructure</li>
+        <li>Innovation, research and development</li>
+      </ul>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">Agriculture Budget</h2>
+      <p>Ms. Sitharaman announced initiation of farmers into natural farming, achieving self sufficiency in pulses and oilseeds, and development of digital public infrastructure among other measures.</p>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">Employment and Education Budget</h2>
+      <p>Three new employee-linked incentive schemes were announced, aligning with the Prime Minister’s package. These schemes focus on the recognition of first-time employees and support to both employers and employees.</p>
+      <p>Support loans of up to ₹10 lakh for education in domestic institutions will be provided to students who have not yet benefited from any government schemes. E-vouchers for interest subvention of 3% of the loan amount will be given directly to 1 lakh students each year.</p>
+      <p>A comprehensive scheme was announced for providing internships in 500 top companies to 1 crore youth over 5 years.</p>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">Regional Budgets</h2>
+      <h3 class="text-lg font-semibold">Bihar and Andhra Pradesh</h3>
+      <p>Several schemes for Bihar were announced as part of the “Purvodaya” plan, including expressways, power projects, new airports, medical colleges, and sports infrastructure. For Andhra Pradesh, funds will be provided under the AP Reorganisation Act to support industrial development and basic infrastructure like water, power, and roads.</p>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">Budget for Women</h2>
+      <p>An allocation of over ₹3 lakh crore was made for schemes benefiting women and girls, promoting women-led development.</p>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">MSMEs Budget</h2>
+      <p>The Budget provides special attention to MSMEs and labor-intensive manufacturing. A new assessment model for MSME credit by public sector banks will be based on the digital footprint of MSMEs rather than only on assets and turnover criteria.</p>
+
+      <h2 class="text-xl font-bold mt-4 mb-2">Personal Income Tax</h2>
+      <p>The finance minister revised the tax slabs under the new regime, allowing a salaried employee to save up to ₹17,500 in income taxes. The slabs have been adjusted as follows:</p>
+      <ul class="list-disc list-inside">
+        <li>₹0 to ₹3 lakh: unchanged</li>
+        <li>₹3 lakh to ₹7 lakh: 5%</li>
+        <li>₹7 lakh to ₹10 lakh: revised</li>
+        <li>₹10 lakh to ₹12 lakh: revised</li>
+        <li>₹12 lakh to ₹15 lakh: revised</li>
+        <li>₹15 lakh and above: revised</li>
+      </ul>
+    </article>",
+        "image": "https://th-i.thgim.com/public/incoming/vdlzpc/article68435614.ece/alternates/LANDSCAPE_1200/PTI07_23_2024_000083B.jpg",
+        "tags": ["budget2024", "jobs", "business"]
       }
     ],
     "technology": [
