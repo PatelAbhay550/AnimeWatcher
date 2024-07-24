@@ -1,15 +1,16 @@
 {
   "categories": {
-    "politics": [
-      {
-        "title": "The Rise of Political Movements in 2024",
-        "author": "John Doe",
-        "date": "2024-07-23",
-        "summary": "An overview of the major political movements emerging in 2024.",
-        "content": "Detailed content of the blog post goes here...",
-        "image": "https://example.com/images/politics1.jpg",
-        "tags": ["politics", "2024", "movements"]
-      },
+    "latest": [
+    {
+    "title": "Tragic Saurya Airlines Plane Crash at Tribhuvan International Airport",
+    "author": "Abhay Patel",
+    "date": "2024-07-24",
+    "summary": "A detailed report on the Saurya Airlines plane crash at Tribhuvan International Airport, resulting in 18 fatalities and one survivor.",
+    "content": "<article itemscope itemtype=\"http://schema.org/LiveBlogPosting\" class=\"bg-white shadow p-6 mb-6\"><h1 itemprop=\"headline\">Tragic Saurya Airlines Plane Crash at Tribhuvan International Airport</h1><p itemprop=\"author\" itemscope itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Abhay Patel</span></p><p itemprop=\"datePublished\" content=\"2024-07-24\">Published on July 24, 2024</p><p itemprop=\"description\">A devastating plane crash involving a Saurya Airlines Bombardier CRJ200LR/ER occurred today at Tribhuvan International Airport in Kathmandu. The aircraft, which was carrying 19 individuals including crew and company staff, met with disaster during takeoff. This incident has resulted in the tragic loss of 18 lives, with the pilot being the only survivor. The crash is a significant blow to Nepal's aviation sector, highlighting the urgent need for stringent safety measures and thorough investigations.</p><h2 itemprop=\"articleSection\" class=\"text-xl font-bold mt-4 mb-2\">Details of the Incident</h2><p>The ill-fated flight was in the process of taking off when it crashed, leading to immediate rescue operations by airport authorities and emergency services. The exact cause of the crash is yet to be determined, but preliminary reports suggest potential technical or human errors. The investigation team is working diligently to retrieve the aircraft's black box, which will provide crucial data to understand the sequence of events leading to this catastrophe.</p><h2 itemprop=\"articleSection\" class=\"text-xl font-bold mt-4 mb-2\">Response from Authorities</h2><p>Following the crash, Nepalese authorities have mobilized all necessary resources for rescue and recovery operations. The Civil Aviation Authority of Nepal (CAAN) has launched an inquiry into the incident, and aviation experts are being called in to assist with the investigation. Tribhuvan International Airport was temporarily closed to manage the emergency, causing significant disruptions to flight schedules and passenger travel plans.</p><h2 itemprop=\"articleSection\" class=\"text-xl font-bold mt-4 mb-2\">Impact on the Aviation Community</h2><p>This tragic event has sent shockwaves through the global aviation community. Saurya Airlines, a prominent name in Nepalese aviation, is now under intense scrutiny as investigators and regulators seek to ensure such incidents are prevented in the future. The crash underscores the critical importance of maintaining rigorous safety standards and continuous monitoring of aircraft conditions to safeguard passengers and crew.</p><h2 itemprop=\"articleSection\" class=\"text-xl font-bold mt-4 mb-2\">Support for the Victims' Families</h2><p>Nepal's Prime Minister, Pushpa Kamal Dahal 'Prachanda,' has expressed his condolences to the families of the victims, emphasizing the government's commitment to providing support and assistance during this difficult time. Efforts are being made to expedite the identification and repatriation of the victims' remains. The aviation community and the public are rallying together to support those affected, with many calling for reforms to enhance flight safety and prevent future tragedies.</p></article>",
+    "image": "https://th-i.thgim.com/public/incoming/vdlzpc/article68435614.ece/alternates/LANDSCAPE_1200/PTI07_23_2024_000083B.jpg",
+    "tags": ["nepal plane crash", "saurya airlines crash", "tribhuvan international airport"]
+    }
+      ,
       {
         "title": "Impact of Social Media on Politics",
         "author": "Jane Smith",
