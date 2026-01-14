@@ -22,7 +22,7 @@ export default function AnimeQuizPage() {
             <div className="flex items-center justify-center gap-3 mb-4">
               <MdQuiz className="text-blue-600 text-5xl" />
             </div>
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4 anime-title">
               What Anime Should I Watch Quiz?
             </h1>
             <p className="text-xl text-gray-700 leading-relaxed mb-6">

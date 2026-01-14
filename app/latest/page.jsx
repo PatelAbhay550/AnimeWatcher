@@ -25,7 +25,7 @@ export default async function LatestDubPage() {
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-3 mb-3">
               <MdNewReleases className="text-green-500 text-3xl" />
-              <h1 className="text-3xl md:text-4xl font-bold text-gray-900">
+              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 anime-title">
                 Latest English Dub Episodes
               </h1>
             </div>

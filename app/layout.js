@@ -1,7 +1,8 @@
-import { Inter } from "next/font/google";
+import { Inter, Bangers } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+const bangers = Bangers({ subsets: ["latin"], weight: "400", variable: "--font-bangers" });
 
 export const metadata = {
   title: {
@@ -134,7 +135,7 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={`${inter.className} ${bangers.variable}`}>{children}</body>
     </html>
   );
 }

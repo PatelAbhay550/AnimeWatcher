@@ -25,7 +25,7 @@ export default async function ActionAnimePage() {
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-3 mb-3">
               <GiSwordman className="text-red-600 text-3xl" />
-              <h1 className="text-3xl md:text-4xl font-bold text-gray-900">
+              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 anime-title">
                 Action Anime Dubbed
               </h1>
             </div>

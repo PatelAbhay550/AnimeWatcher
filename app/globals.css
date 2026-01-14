@@ -8,6 +8,11 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+.anime-title {
+  font-family: var(--font-bangers), sans-serif;
+  letter-spacing: 0.05em;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
