@@ -19,8 +19,7 @@
 body {
   overflow-x: hidden;
   color: rgb(var(--foreground-rgb));
-
-  background: linear-gradient(to right, #0ea5e9, #4f46e5);
+  background: #f9fafb;
 }
 
 @layer utilities {
@@ -52,11 +51,12 @@ h1 {
   line-height: 1;
 }
 .card {
-  background-color: rgba(255, 255, 255, 0.13);
-  width: 100%;
-  height: 75px;
-  justify-content: center;
+  background-color: white;
+  min-width: 200px;
+  height: auto;
+  justify-content: flex-start;
   display: flex;
+  padding: 1rem;
   gap: 5px;
   align-items: center;
 }

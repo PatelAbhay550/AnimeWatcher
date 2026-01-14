@@ -4,22 +4,22 @@ import React, { useEffect, useState } from "react";
 import { useInView } from "react-intersection-observer";
 import { ImSpinner } from "react-icons/im";
 import { fetchAnime } from "@/app/action";
-import { MotionDiv } from "./MotionDiv";
 import Link from "next/link";
 let page = 2;
 const Loadmore = () => {
   const { ref, inView } = useInView();
   const [animeData, setAnimeData] = useState([]);
-  const variants = {
-    hidden: { opacity: 0, scale: 0.8 },
-    visible: { opacity: 1, scale: 1 },
-  };
   useEffect(() => {
     const fetchData = async () => {
       if (inView) {
         try {
           const newData = await fetchAnime(page);
-          setAnimeData((prevData) => [...prevData, ...newData]);
+          setAnimeData((prevData) => {
+            // Filter out duplicates by id
+            const existingIds = new Set(prevData.map(item => item.id));
+            const uniqueNewData = newData.filter(item => !existingIds.has(item.id));
+            return [...prevData, ...uniqueNewData];
+          });
           page++;
         } catch (error) {
           console.error("Error fetching data:", error);
@@ -32,62 +32,45 @@ const Loadmore = () => {
 
   return (
     <>
-      <div className="grid gridd gap-2 bg-gradient-to-r from-sky-500 to-indigo-500 ">
-        {animeData.map((item) => (
-          <MotionDiv
-            initial="hidden"
-            animate="visible"
-            transition={{
-              delay: 0.5,
-              ease: "easeInOut",
-              duration: 0.5,
-            }}
-            variants={variants}
-            key={item.id}
-            className="text-3xl mb-4 md:h-96 pb-4 md:pb-0 md:w-96 w-80 h-80 overflow-hidden rounded-lg backdrop-blur-sm bgg"
+      <div className="bg-gray-50 p-4">
+        <div className="grid gridd gap-4">
+        {animeData.map((item, index) => (
+          <div
+            key={`anime-${item.id}-${index}`}
+            className="group hover:scale-105 transition-transform duration-300 bg-white rounded-xl shadow-lg overflow-hidden w-full max-w-sm h-[420px] flex flex-col"
           >
-            <div className="dets w-full  flex flex-col p-3  h-4/5">
+            <div className="relative h-64 flex-shrink-0">
               <Image
-                className="h-3/4 object-cover object-top rounded-md w-full"
+                className="w-full h-full object-cover object-top"
                 src={`https://shikimori.one${item.image.original}`}
                 alt={item.name}
-                width={100}
-                height={200}
+                width={400}
+                height={300}
               />
-              <div className="data text-white px-0 text-lg pl-3 gap-1  flex flex-col">
-                <h2 className="text-slate-900  text-3xl overflow-hidden truncate w-[250px] whitespace-nowrap font-sans font-bold">
-                  {item.name}
-                </h2>
-                <h2>Kind: {item.kind}</h2>
-                <h2>Score: {item.score}</h2>
-                <Link
-                  href={{
-                    pathname: "/anime",
-                    query: {
-                      name: encodeURIComponent(item.name),
-                      image: encodeURIComponent(item.image.original),
-                      kind: encodeURIComponent(item.kind),
-                      score: encodeURIComponent(item.score),
-                      episodes: encodeURIComponent(item.episodes),
-                      released_on: encodeURIComponent(item.released_on),
-                      aired: encodeURIComponent(item.aired_on),
-                      url: encodeURIComponent(item.url),
-                      previmg: encodeURIComponent(
-                        JSON.stringify(item.image.preview)
-                      ),
-                      x96: encodeURIComponent(item.image.x96),
-                      x48: encodeURIComponent(item.image.x48),
-                    },
-                  }}
-                >
-                  <button className="md:w-28 w-32 mt-2 rounded bg-slate-900 h-8 whitespace-nowrap">
-                    More info
-                  </button>
-                </Link>
+              <div className="absolute top-2 right-2 bg-yellow-400 text-gray-900 px-3 py-1 rounded-full font-bold text-sm">
+                ⭐ {item.score}
               </div>
             </div>
-          </MotionDiv>
+            <div className="p-4 flex flex-col flex-grow">
+              <h2 className="text-xl font-bold text-gray-900 mb-2 truncate">
+                {item.name}
+              </h2>
+              <div className="flex gap-2 mb-3">
+                <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
+                  {item.kind}
+                </span>
+              </div>
+              <Link
+                href={`/anime/${item.id}-${encodeURIComponent(item.name.replace(/\s+/g, '-'))}`}
+              >
+                <button className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-lg transition-colors mt-auto">
+                  View Details
+                </button>
+              </Link>
+            </div>
+          </div>
         ))}
+        </div>
       </div>
 
       <div className="main w-full flex items-center justify-center" ref={ref}>
