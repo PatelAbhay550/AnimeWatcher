@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import { FaQuestionCircle, FaPlay } from "react-icons/fa";
 import { MdQuiz } from "react-icons/md";
 
@@ -15,6 +16,10 @@ export default function AnimeQuizPage() {
     <>
       <main className="min-h-screen bg-gray-50 md:mt-16 mt-20">
         <Navbar />
+        <Breadcrumbs items={[
+          { label: "Home", href: "/" },
+          { label: "Anime Quiz" }
+        ]} />
         
         {/* Hero Section */}
         <div className="bg-white border-b border-gray-200 py-12 px-4">

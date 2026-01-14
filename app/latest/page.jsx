@@ -2,6 +2,7 @@ import Image from "next/image";
 import { fetchAnime } from "../action";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
 import { FaStar, FaClock } from "react-icons/fa";
 import { MdNewReleases } from "react-icons/md";
@@ -19,6 +20,10 @@ export default async function LatestDubPage() {
     <>
       <main className="min-h-screen bg-gray-50 md:mt-16 mt-20">
         <Navbar />
+        <Breadcrumbs items={[
+          { label: "Home", href: "/" },
+          { label: "Latest English Dub Episodes" }
+        ]} />
         
         {/* Hero Section */}
         <div className="bg-white border-b border-gray-200 py-8 px-4">

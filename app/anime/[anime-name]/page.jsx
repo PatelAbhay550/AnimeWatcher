@@ -9,6 +9,7 @@ import { BiCategoryAlt } from "react-icons/bi";
 import { FaRegCalendarTimes } from "react-icons/fa";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumbs from "@/components/Breadcrumbs";
 
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
@@ -139,8 +140,15 @@ const AnimePage = async ({ params }) => {
       />
       <div className="flex min-h-screen flex-col bg-gray-50">
         <Navbar />
+        <div className="md:mt-16 mt-20">
+          <Breadcrumbs items={[
+            { label: "Home", href: "/" },
+            { label: "Anime", href: "/" },
+            { label: animeData.name }
+          ]} />
+        </div>
         {/* Hero Section */}
-        <div className="relative w-full h-96 md:h-[450px] overflow-hidden bg-gray-900 mt-16">
+        <div className="relative w-full h-96 md:h-[450px] overflow-hidden bg-gray-900">
           <Image
             src={`https://shikimori.one${animeData.image.original}`}
             width={1920}

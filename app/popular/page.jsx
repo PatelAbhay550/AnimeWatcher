@@ -2,6 +2,7 @@ import Image from "next/image";
 import { fetchAnime } from "../action";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
 import { FaStar, FaFire } from "react-icons/fa";
 
@@ -18,6 +19,10 @@ export default async function PopularDubbedAnimePage() {
     <>
       <main className="min-h-screen bg-gray-50 md:mt-16 mt-20">
         <Navbar />
+        <Breadcrumbs items={[
+          { label: "Home", href: "/" },
+          { label: "Popular Dubbed Anime" }
+        ]} />
         
         {/* Hero Section */}
         <div className="bg-white border-b border-gray-200 py-8 px-4">
